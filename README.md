@@ -4,4 +4,7 @@
 ### We believe in a smarter world.
 ### We provide free puzzle games, intended for children and adults alike.
 
-Play today: https://play.google.com/store/apps/details?id=com.github.gnudles.rollingmarbles
+Play today: [Rolling Marbles at Google Play Store](https://play.google.com/store/apps/details?id=com.github.gnudles.rollingmarbles)
+
+
+[Our privacy policy](https://gnudles.github.io/RollingMarbles/privacy.html)
